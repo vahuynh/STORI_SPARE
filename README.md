@@ -3,7 +3,7 @@ Code for fitting protein-based univariate and bivariate Cox models on the STORI 
 
 This approach is described in the following paper:
 ```
-Pierre *et al.*, External validation of serum biomarkers predicting short-term and mid/long-term relapse in Crohn’s disease patients stopping infliximab.
+Pierre et al., External validation of serum biomarkers predicting short-term and mid/long-term relapse in Crohn’s disease patients stopping infliximab.
 Under review, 2024
 ```
 
