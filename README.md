@@ -29,4 +29,4 @@ To run the **bivariate** analysis with the parameters used to obtain the results
 
 ```python cox.py --type bivariate --penalizer 0.01 --n_bootstraps 500 --stratification_type before_6months```
 
-When the analysis is finished, a txt file will be generated containing the results of the analysis. This txt file can be opened with excel, for example.
+In each case, when the analysis is finished, a txt file will be generated containing the results of the analysis. This txt file can be opened with excel, for example.
