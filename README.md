@@ -14,7 +14,7 @@ You can use `pip install -r requirements.txt` to install all the requirements.
 
 
 ## Data
-The STORI and SPARE data will be available, should our paper be accepted. This data is needed to be able to run the analyses as shown below.
+The STORI and SPARE data will be made available in this repository, should our paper be accepted. This data is needed to be able to run the analyses as shown below.
 
 
 ## Run the analysis
