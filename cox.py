@@ -10,8 +10,7 @@ from sklearn.utils import resample
 import itertools
 import argparse
 
-DATA_FOLDER = '/Users/vahuynh/Work/STORI_SPARE/STORI_vs_SPARE/data'
-#DATA_FOLDER = '/home/ulg/sysmod/vananh/STORI_SPARE/data'
+DATA_FOLDER = 'data'
 
 def remove_nan(data):
     """
